@@ -20,7 +20,7 @@ This repository contains the resources and code for my master's thesis titled "T
 
 
 ## Code License
-The code in this repository is open source and available under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). This license allows others to share and adapt the work, provided attribution is given and changes are indicated.
+The code in this repository is open source and available under the APACHE 2.0 licesne. This license allows others to share and adapt the work, provided attribution is given and changes are indicated.
 
 
 
